@@ -1,0 +1,12 @@
+name = "1.签到"
+prerequisites = []
+unlock_limit = 1
+
+[[tag]]
+name = "由此开始"
+primary = true
+
+[score_rule]
+initial = 50
+minimum = 50
+decay = 1

@@ -1,0 +1,12 @@
+name = "你的名字"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "PWN 二进制漏洞利用"
+primary = true
+
+[score_rule]
+initial = 150
+minimum = 140
+decay = 3

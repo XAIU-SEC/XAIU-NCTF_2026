@@ -1,0 +1,12 @@
+name = "Web 入门指北"
+prerequisites = ["1.签到"]
+unlock_limit = 0
+
+[[tag]]
+name = " Web 安全与渗透测试"
+primary = true
+
+[score_rule]
+initial = 15
+minimum = 15
+decay = 1

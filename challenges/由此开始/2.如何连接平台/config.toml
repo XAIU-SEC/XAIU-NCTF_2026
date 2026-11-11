@@ -1,0 +1,12 @@
+name = "2.如何连接平台"
+prerequisites = ["1.签到"]
+unlock_limit = 0
+
+[[tag]]
+name = "由此开始"
+primary = true
+
+[score_rule]
+initial = 50
+minimum = 50
+decay = 1

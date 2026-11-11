@@ -1,0 +1,12 @@
+name = "预言家，我想吃饼干了呢"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = " Web 安全与渗透测试"
+primary = true
+
+[score_rule]
+initial = 119
+minimum = 119
+decay = 1

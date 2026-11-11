@@ -1,0 +1,12 @@
+name = "4.SSH 引入"
+prerequisites = ["1.签到"]
+unlock_limit = 0
+
+[[tag]]
+name = "由此开始"
+primary = true
+
+[score_rule]
+initial = 60
+minimum = 60
+decay = 1

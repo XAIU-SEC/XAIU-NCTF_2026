@@ -1,0 +1,12 @@
+name = "比较 RE4"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Reverse 逆向工程"
+primary = true
+
+[score_rule]
+initial = 149
+minimum = 149
+decay = 1

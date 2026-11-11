@@ -1,0 +1,12 @@
+name = "？！头头 ！？"
+prerequisites = ["初识Misc"]
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 100
+minimum = 100
+decay = 1

@@ -1,0 +1,6 @@
+.lock
+*.tar.gz
+*.tgz
+.DS_Store
+Thumbs.db
+.vscode/

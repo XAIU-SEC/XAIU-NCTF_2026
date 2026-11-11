@@ -1,0 +1,12 @@
+name = "那一次入侵"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 220
+minimum = 200
+decay = 3

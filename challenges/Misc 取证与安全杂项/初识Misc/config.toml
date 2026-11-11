@@ -1,0 +1,12 @@
+name = "初识Misc"
+prerequisites = ["1.签到"]
+unlock_limit = 1
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 30
+minimum = 30
+decay = 1

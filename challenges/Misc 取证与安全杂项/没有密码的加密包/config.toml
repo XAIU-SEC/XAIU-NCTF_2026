@@ -1,0 +1,12 @@
+name = "没有密码的加密包"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 119
+minimum = 119
+decay = 1

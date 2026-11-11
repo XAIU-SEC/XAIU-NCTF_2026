@@ -1,0 +1,12 @@
+name = "反调试下的真路径"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Reverse 逆向工程"
+primary = true
+
+[score_rule]
+initial = 200
+minimum = 180
+decay = 3

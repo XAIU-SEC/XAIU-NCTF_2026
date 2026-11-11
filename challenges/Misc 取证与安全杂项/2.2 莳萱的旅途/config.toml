@@ -1,0 +1,12 @@
+name = "2.2 莳萱的旅途"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 75
+minimum = 75
+decay = 1

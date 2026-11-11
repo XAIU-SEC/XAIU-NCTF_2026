@@ -1,0 +1,12 @@
+name = "1.1 流量里的那一次请求"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 49
+minimum = 49
+decay = 1

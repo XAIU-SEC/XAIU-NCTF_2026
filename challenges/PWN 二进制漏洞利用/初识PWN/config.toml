@@ -1,0 +1,12 @@
+name = "初识PWN"
+prerequisites = ["1.签到"]
+unlock_limit = 1
+
+[[tag]]
+name = "PWN 二进制漏洞利用"
+primary = true
+
+[score_rule]
+initial = 15
+minimum = 15
+decay = 1

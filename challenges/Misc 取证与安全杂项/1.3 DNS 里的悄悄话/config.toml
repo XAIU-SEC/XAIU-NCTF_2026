@@ -1,0 +1,12 @@
+name = "1.3 DNS 里的悄悄话"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = "Misc 取证与安全杂项"
+primary = true
+
+[score_rule]
+initial = 149
+minimum = 149
+decay = 1

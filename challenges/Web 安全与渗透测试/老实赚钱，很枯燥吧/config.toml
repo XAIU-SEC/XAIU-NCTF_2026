@@ -1,0 +1,12 @@
+name = "老实赚钱，很枯燥吧"
+prerequisites = []
+unlock_limit = 0
+
+[[tag]]
+name = " Web 安全与渗透测试"
+primary = true
+
+[score_rule]
+initial = 220
+minimum = 200
+decay = 3

@@ -1,0 +1,12 @@
+name = "异或比较"
+prerequisites = ["初识逆向"]
+unlock_limit = 0
+
+[[tag]]
+name = "Reverse 逆向工程"
+primary = true
+
+[score_rule]
+initial = 120
+minimum = 120
+decay = 1

@@ -1,0 +1,12 @@
+name = "诶诶，这里不让写明文！！！"
+prerequisites = ["初识逆向"]
+unlock_limit = 0
+
+[[tag]]
+name = "Reverse 逆向工程"
+primary = true
+
+[score_rule]
+initial = 69
+minimum = 69
+decay = 1

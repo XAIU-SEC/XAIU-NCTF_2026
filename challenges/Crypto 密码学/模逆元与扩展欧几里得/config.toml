@@ -1,0 +1,12 @@
+name = "模逆元与扩展欧几里得"
+prerequisites = ["Crypto 入门指北"]
+unlock_limit = 1
+
+[[tag]]
+name = "Crypto 密码学"
+primary = true
+
+[score_rule]
+initial = 100
+minimum = 100
+decay = 1

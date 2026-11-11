@@ -1,0 +1,12 @@
+name = "反编译"
+prerequisites = ["初识逆向"]
+unlock_limit = 0
+
+[[tag]]
+name = "Reverse 逆向工程"
+primary = true
+
+[score_rule]
+initial = 100
+minimum = 100
+decay = 1

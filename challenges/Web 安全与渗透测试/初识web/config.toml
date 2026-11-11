@@ -1,0 +1,12 @@
+name = "初识web"
+prerequisites = ["Web 入门指北"]
+unlock_limit = 1
+
+[[tag]]
+name = " Web 安全与渗透测试"
+primary = true
+
+[score_rule]
+initial = 70
+minimum = 70
+decay = 1
