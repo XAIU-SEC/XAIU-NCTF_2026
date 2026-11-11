@@ -7,9 +7,9 @@ XAIU-NCTF 2026 Challenges and Writeups
 
 欢迎所有参赛的小伙伴贡献自己的WriteUp与解题心得！
 
-## 比赛相关信息
+## 背景介绍
 
-**Welcome to the 2026 Newcomers’ CTF Competition.**
+**Welcome to the XAIU 2026 Newcomers’ CTF Competition.**
 
 这是一场面向新生的网络安全技术挑战赛，旨在激发大家对信息安全的兴趣，提升实战能力，培养团队协作精神。
 
@@ -20,10 +20,26 @@ XAIU-NCTF 2026 Challenges and Writeups
 
 ## 比赛详情
 
-- 比赛时间：2026 年 11 月 4 日 18:00 - 2026 年 11 月 11 日 18:00。
+- 比赛时间：2026 年 11 月 04 日 18:00 - 2026 年 11 月 11 日 18:00。
 - 报名时间 10 月 29 日 18:00 开放报名，**比赛期间可随时报名参赛**。
 - 比赛赛制：**三人线上解题模式**。
 - 比赛内容：涵盖 Web 安全与渗透测试、软件逆向工程、二进制漏洞利用、现代密码学、取证与安全杂项等。
+
+## 注意事项
+
+- 由于**一些安全原因**，在XAIU CTF 终端连接题目在线环境需要使用[连接器](http://ctf.example.com/wiki/8)。
+- 部分题目在线环境服务不提供 HTTP 接口（标记为 `tcp` ），不能用浏览器直接访问。可以使用 [netcat](http://ctf.example.com/wiki/5) 访问。
+- 本次比赛为**三人赛**，需要创建队伍或加入队伍。
+- 创建队伍时的“标签”可以自由填写或不填，将显示在排行榜上昵称下方，可随时更改。
+- 加入队伍时需要在填写目标队伍管理页面的**队伍密钥**。
+- 本次比赛部分方向不定期发布新题目，但所有题目的官方题解在赛程结束后才一并发布。请选手不要在比赛归档前在任何地方公布自己的题解。
+- **本次比赛部分题目有各队不同的 flag，如果有队伍提交了不属于自己的 flag，那么该队将被封禁**。
+
+---
+
+比赛平台源码：https://github.com/ret2shell/ret2shell
+
+---
 
 ## Copyright @ XAIUSEC
 
@@ -45,3 +61,5 @@ XAIU-NCTF 2026 Challenges and Writeups
 如果您有以上需求，请发送邮件到 [nifeiyu159@gmail.com](mailto:nifeiyu159@gmail.com) 告知用途并申请授权，收到许可回复后方可使用。
 
 对于选手题解的公开引用，请遵循原作者的版权声明。
+
+![CTF2026_poster_XAIU2026_2x.webp](/api/media?hash=67bb13de374f3d2301991d561622fbe4e1cdbb6183014e12699eb7c4f3c0397b)
