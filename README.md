@@ -61,5 +61,3 @@ XAIU-NCTF 2026 Challenges and Writeups
 如果您有以上需求，请发送邮件到 [nifeiyu159@gmail.com](mailto:nifeiyu159@gmail.com) 告知用途并申请授权，收到许可回复后方可使用。
 
 对于选手题解的公开引用，请遵循原作者的版权声明。
-
-![CTF2026_poster_XAIU2026_2x.webp](/api/media?hash=67bb13de374f3d2301991d561622fbe4e1cdbb6183014e12699eb7c4f3c0397b)
